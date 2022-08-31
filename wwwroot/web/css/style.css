@@ -9931,3 +9931,29 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-track {
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #3f3d56;
+}
+
+    ::-webkit-scrollbar-thumb:hover {
+        background: #003e79;
+    }
+
+::-moz-selection {
+    background: #3f3d56;
+    color: #fff;
+}
+
+::selection {
+    background: #3f3d56;
+    color: #fff;
+}
