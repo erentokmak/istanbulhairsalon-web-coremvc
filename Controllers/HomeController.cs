@@ -63,6 +63,21 @@ namespace mutekavvim_web_coremvc.Controllers
             return View();
         }
 
+        public IActionResult Haberler()
+        {
+            return View();
+        }
+
+        public IActionResult Projeler()
+        {
+            return View();
+        }
+        
+        public IActionResult Hakkimizda()
+        {
+            return View();
+        }
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
