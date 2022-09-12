@@ -38,6 +38,31 @@ namespace mutekavvim_web_coremvc.Controllers
             return View();
         }
 
+        public IActionResult Insaat()
+        {
+            return View();
+        }
+
+        public IActionResult Gida()
+        {
+            return View();
+        }
+
+        public IActionResult Matbaa()
+        {
+            return View();
+        }
+
+        public IActionResult Promosyon()
+        {
+            return View();
+        }
+
+        public IActionResult Enerji()
+        {
+            return View();
+        }
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
