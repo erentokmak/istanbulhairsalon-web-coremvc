@@ -1,4 +1,5 @@
-﻿@{
+﻿@model List<Dictionary<string, object>>
+@{
     ViewData["Title"] = "Ekibimiz";
 }
 
@@ -17,159 +18,23 @@
 <section class="ftco-section">
     <div class="container">
         <div class="row">
-            <div class="col-sm-6 col-md-6 col-lg-3 ftco-animate">
-                <div class="staff">
-                    <div class="img-wrap d-flex align-items-stretch justify-content-end">
-                        <div class="img align-self-stretch" style="background-image: url(/web/images/team-1.jpg);"></div>
-                    </div>
-                    <div class="text d-flex align-items-center pt-3">
-                        <div>
-                            <h3 class="mb-2">Eren <br>Tokmak</h3>
-                            <span class="position mb-4">Yazılım Geliştiricisi</span>
-                            <ul class="ftco-social">
-                                <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
-                                <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
-                                <li class="ftco-animate"><a href="#"><span class="icon-google-plus"></span></a></li>
-                                <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
-                            </ul>
+            @foreach (var item in Model)
+            {
+                <div class="col-sm-6 col-md-6 col-lg-3 ftco-animate">
+                    <div class="staff">
+                        <div class="img-wrap d-flex align-items-stretch justify-content-end">
+                            <div class="img align-self-stretch" style="background-image: url(/web/images/team-1.jpg);"></div>
+                        </div>
+                        <div class="text d-flex align-items-center pt-3">
+                            <div>
+                                <h3 class="mb-2">@item["AdSoyad"]</h3>
+                                <br />
+                                <span class="position mb-4">@item["Unvan"]</span>
+                            </div>
                         </div>
                     </div>
                 </div>
-            </div>
-            <div class="col-sm-6 col-md-6 col-lg-3 ftco-animate">
-                <div class="staff">
-                    <div class="img-wrap d-flex align-items-stretch justify-content-end">
-                        <div class="img align-self-stretch" style="background-image: url(/web/images/team-2.jpg);"></div>
-                    </div>
-                    <div class="text d-flex align-items-center pt-3">
-                        <div>
-                            <h3 class="mb-2">Eren <br>Tokmak</h3>
-                            <span class="position mb-4">Yazılım Geliştiricisi</span>
-                            <ul class="ftco-social">
-                                <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
-                                <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
-                                <li class="ftco-animate"><a href="#"><span class="icon-google-plus"></span></a></li>
-                                <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-sm-6 col-md-6 col-lg-3 ftco-animate">
-                <div class="staff">
-                    <div class="img-wrap d-flex align-items-stretch justify-content-end">
-                        <div class="img align-self-stretch" style="background-image: url(/web/images/team-3.jpg);"></div>
-                    </div>
-                    <div class="text d-flex align-items-center pt-3">
-                        <div>
-                            <h3 class="mb-2">Eren <br>Tokmak</h3>
-                            <span class="position mb-4">Yazılım Geliştiricisi</span>
-                            <ul class="ftco-social">
-                                <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
-                                <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
-                                <li class="ftco-animate"><a href="#"><span class="icon-google-plus"></span></a></li>
-                                <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-sm-6 col-md-6 col-lg-3 ftco-animate">
-                <div class="staff">
-                    <div class="img-wrap d-flex align-items-stretch justify-content-end">
-                        <div class="img align-self-stretch" style="background-image: url(/web/images/team-4.jpg);"></div>
-                    </div>
-                    <div class="text d-flex align-items-center pt-3">
-                        <div>
-                            <h3 class="mb-2">Eren <br>Tokmak</h3>
-                            <span class="position mb-4">Yazılım Geliştiricisi</span>
-                            <ul class="ftco-social">
-                                <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
-                                <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
-                                <li class="ftco-animate"><a href="#"><span class="icon-google-plus"></span></a></li>
-                                <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-sm-6 col-md-6 col-lg-3 ftco-animate">
-                <div class="staff">
-                    <div class="img-wrap d-flex align-items-stretch justify-content-end">
-                        <div class="img align-self-stretch" style="background-image: url(/web/images/team-5.jpg);"></div>
-                    </div>
-                    <div class="text d-flex align-items-center pt-3">
-                        <div>
-                            <h3 class="mb-2">Beytullah <br>Yılmaz</h3>
-                            <span class="position mb-4">Yazılım Geliştiricisi</span>
-                            <ul class="ftco-social">
-                                <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
-                                <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
-                                <li class="ftco-animate"><a href="#"><span class="icon-google-plus"></span></a></li>
-                                <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-sm-6 col-md-6 col-lg-3 ftco-animate">
-                <div class="staff">
-                    <div class="img-wrap d-flex align-items-stretch justify-content-end">
-                        <div class="img align-self-stretch" style="background-image: url(/web/images/team-6.jpg);"></div>
-                    </div>
-                    <div class="text d-flex align-items-center pt-3">
-                        <div>
-                            <h3 class="mb-2">Beytullah <br>Yılmaz</h3>
-                            <span class="position mb-4">Yazılım Geliştiricisi</span>
-                            <ul class="ftco-social">
-                                <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
-                                <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
-                                <li class="ftco-animate"><a href="#"><span class="icon-google-plus"></span></a></li>
-                                <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-sm-6 col-md-6 col-lg-3 ftco-animate">
-                <div class="staff">
-                    <div class="img-wrap d-flex align-items-stretch justify-content-end">
-                        <div class="img align-self-stretch" style="background-image: url(/web/images/team-7.jpg);"></div>
-                    </div>
-                    <div class="text d-flex align-items-center pt-3">
-                        <div>
-                            <h3 class="mb-2">Beytullah <br>Yılmaz</h3>
-                            <span class="position mb-4">Yazılım Geliştiricisi</span>
-                            <ul class="ftco-social">
-                                <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
-                                <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
-                                <li class="ftco-animate"><a href="#"><span class="icon-google-plus"></span></a></li>
-                                <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-sm-6 col-md-6 col-lg-3 ftco-animate">
-                <div class="staff">
-                    <div class="img-wrap d-flex align-items-stretch justify-content-end">
-                        <div class="img align-self-stretch" style="background-image: url(/web/images/team-8.jpg);"></div>
-                    </div>
-                    <div class="text d-flex align-items-center pt-3">
-                        <div>
-                            <h3 class="mb-2">Beytullah <br>Yılmaz</h3>
-                            <span class="position mb-4">Yazılım Geliştiricisi</span>
-                            <ul class="ftco-social">
-                                <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
-                                <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
-                                <li class="ftco-animate"><a href="#"><span class="icon-google-plus"></span></a></li>
-                                <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
+            }
         </div>
     </div>
 </section>

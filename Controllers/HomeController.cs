@@ -1,16 +1,19 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using mutekavvim_web_coremvc.Models;
 using System.Diagnostics;
+using Tekno.DashboardAgentService.Common;
 
 namespace mutekavvim_web_coremvc.Controllers
 {
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
+        private IConfiguration Configuration;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(ILogger<HomeController> logger, IConfiguration _configuration)
         {
             _logger = logger;
+            Configuration = _configuration;
         }
 
         public IActionResult Index()
@@ -25,7 +28,10 @@ namespace mutekavvim_web_coremvc.Controllers
 
         public IActionResult Team()
         {
-            return View();
+            string connString = this.Configuration.GetConnectionString("DefaultConnection");
+
+            var x = MSSQLDataConnection.SelectDataFromDB("select * from Ekip", connString);
+            return View(x);
         }
 
         public IActionResult Services()
@@ -72,7 +78,7 @@ namespace mutekavvim_web_coremvc.Controllers
         {
             return View();
         }
-        
+
         public IActionResult Hakkimizda()
         {
             return View();
