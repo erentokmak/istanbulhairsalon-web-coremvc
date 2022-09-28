@@ -10784,11 +10784,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ErkanPer\\source\\repos\\mutekavvim-web-coremvc\\mutekavvim-web-coremvc.csproj",
+      "projectUniqueName": "C:\\Users\\ErkanPer\\source\\repos\\istanbulhairsalon-web-coremvc\\mutekavvim-web-coremvc.csproj",
       "projectName": "mutekavvim-web-coremvc",
-      "projectPath": "C:\\Users\\ErkanPer\\source\\repos\\mutekavvim-web-coremvc\\mutekavvim-web-coremvc.csproj",
+      "projectPath": "C:\\Users\\ErkanPer\\source\\repos\\istanbulhairsalon-web-coremvc\\mutekavvim-web-coremvc.csproj",
       "packagesPath": "C:\\Users\\ErkanPer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ErkanPer\\source\\repos\\mutekavvim-web-coremvc\\obj\\",
+      "outputPath": "C:\\Users\\ErkanPer\\source\\repos\\istanbulhairsalon-web-coremvc\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages",

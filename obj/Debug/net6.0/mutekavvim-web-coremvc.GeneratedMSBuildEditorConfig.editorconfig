@@ -8,97 +8,97 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = mutekavvim_web_coremvc
 build_property.RootNamespace = mutekavvim_web_coremvc
-build_property.ProjectDir = C:\Users\ErkanPer\source\repos\mutekavvim-web-coremvc\
+build_property.ProjectDir = C:\Users\ErkanPer\source\repos\istanbulhairsalon-web-coremvc\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = true
-build_property.MSBuildProjectDirectory = C:\Users\ErkanPer\source\repos\mutekavvim-web-coremvc
+build_property.MSBuildProjectDirectory = C:\Users\ErkanPer\source\repos\istanbulhairsalon-web-coremvc
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/ErkanPer/source/repos/mutekavvim-web-coremvc/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/Users/ErkanPer/source/repos/istanbulhairsalon-web-coremvc/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ErkanPer/source/repos/mutekavvim-web-coremvc/Views/Home/Contact.cshtml]
+[C:/Users/ErkanPer/source/repos/istanbulhairsalon-web-coremvc/Views/Home/Contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ErkanPer/source/repos/mutekavvim-web-coremvc/Views/Home/Enerji.cshtml]
+[C:/Users/ErkanPer/source/repos/istanbulhairsalon-web-coremvc/Views/Home/Enerji.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFbmVyamkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ErkanPer/source/repos/mutekavvim-web-coremvc/Views/Home/Gida.cshtml]
+[C:/Users/ErkanPer/source/repos/istanbulhairsalon-web-coremvc/Views/Home/Gida.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHaWRhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ErkanPer/source/repos/mutekavvim-web-coremvc/Views/Home/GizlilikPolitakasi.cshtml]
+[C:/Users/ErkanPer/source/repos/istanbulhairsalon-web-coremvc/Views/Home/GizlilikPolitakasi.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHaXpsaWxpa1BvbGl0YWthc2kuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ErkanPer/source/repos/mutekavvim-web-coremvc/Views/Home/Haberler.cshtml]
+[C:/Users/ErkanPer/source/repos/istanbulhairsalon-web-coremvc/Views/Home/Haberler.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIYWJlcmxlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ErkanPer/source/repos/mutekavvim-web-coremvc/Views/Home/Hakkimizda.cshtml]
+[C:/Users/ErkanPer/source/repos/istanbulhairsalon-web-coremvc/Views/Home/Hakkimizda.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIYWtraW1pemRhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ErkanPer/source/repos/mutekavvim-web-coremvc/Views/Home/Index.cshtml]
+[C:/Users/ErkanPer/source/repos/istanbulhairsalon-web-coremvc/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ErkanPer/source/repos/mutekavvim-web-coremvc/Views/Home/Insaat.cshtml]
+[C:/Users/ErkanPer/source/repos/istanbulhairsalon-web-coremvc/Views/Home/Insaat.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbnNhYXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ErkanPer/source/repos/mutekavvim-web-coremvc/Views/Home/KVKK.cshtml]
+[C:/Users/ErkanPer/source/repos/istanbulhairsalon-web-coremvc/Views/Home/KVKK.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxLVktLLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ErkanPer/source/repos/mutekavvim-web-coremvc/Views/Home/Matbaa.cshtml]
+[C:/Users/ErkanPer/source/repos/istanbulhairsalon-web-coremvc/Views/Home/Matbaa.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNYXRiYWEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ErkanPer/source/repos/mutekavvim-web-coremvc/Views/Home/Privacy.cshtml]
+[C:/Users/ErkanPer/source/repos/istanbulhairsalon-web-coremvc/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ErkanPer/source/repos/mutekavvim-web-coremvc/Views/Home/Projeler.cshtml]
+[C:/Users/ErkanPer/source/repos/istanbulhairsalon-web-coremvc/Views/Home/Projeler.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9qZWxlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ErkanPer/source/repos/mutekavvim-web-coremvc/Views/Home/Promosyon.cshtml]
+[C:/Users/ErkanPer/source/repos/istanbulhairsalon-web-coremvc/Views/Home/Promosyon.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9tb3N5b24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ErkanPer/source/repos/mutekavvim-web-coremvc/Views/Home/Services.cshtml]
+[C:/Users/ErkanPer/source/repos/istanbulhairsalon-web-coremvc/Views/Home/Services.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZXJ2aWNlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ErkanPer/source/repos/mutekavvim-web-coremvc/Views/Home/Team.cshtml]
+[C:/Users/ErkanPer/source/repos/istanbulhairsalon-web-coremvc/Views/Home/Team.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUZWFtLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ErkanPer/source/repos/mutekavvim-web-coremvc/Views/Shared/Error.cshtml]
+[C:/Users/ErkanPer/source/repos/istanbulhairsalon-web-coremvc/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ErkanPer/source/repos/mutekavvim-web-coremvc/Views/Shared/_LoginPartial.cshtml]
+[C:/Users/ErkanPer/source/repos/istanbulhairsalon-web-coremvc/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ErkanPer/source/repos/mutekavvim-web-coremvc/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/ErkanPer/source/repos/istanbulhairsalon-web-coremvc/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ErkanPer/source/repos/mutekavvim-web-coremvc/Views/_ViewImports.cshtml]
+[C:/Users/ErkanPer/source/repos/istanbulhairsalon-web-coremvc/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ErkanPer/source/repos/mutekavvim-web-coremvc/Views/_ViewStart.cshtml]
+[C:/Users/ErkanPer/source/repos/istanbulhairsalon-web-coremvc/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ErkanPer/source/repos/mutekavvim-web-coremvc/Views/Shared/_Layout.cshtml]
+[C:/Users/ErkanPer/source/repos/istanbulhairsalon-web-coremvc/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-f5lt0go748

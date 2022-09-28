@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7+gsSdmUkLFgkVZazFAWtMREnAGDtl5X+fXCgHQ0cQjdTVymZ+A+ZlbCUUwkxTS2IreUbtUFmzU2dn/2PeFN5w==",
+  "dgSpecHash": "AUPlCMFsuqLFqLtWfOZapuHoDdb8w3TZX39dglgsRzAfcEcFOL7VuhQUZEfceUvnmAUYQStlPwSF36CH8gxBzg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ErkanPer\\source\\repos\\mutekavvim-web-coremvc\\mutekavvim-web-coremvc.csproj",
+  "projectFilePath": "C:\\Users\\ErkanPer\\source\\repos\\istanbulhairsalon-web-coremvc\\mutekavvim-web-coremvc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ErkanPer\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\ErkanPer\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
