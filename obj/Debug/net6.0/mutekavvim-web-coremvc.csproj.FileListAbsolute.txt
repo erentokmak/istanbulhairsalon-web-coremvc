@@ -317,7 +317,6 @@ C:\Users\ErkanPer\source\repos\mutekavvim-web-coremvc\bin\Debug\net6.0\Microsoft
 C:\Users\ErkanPer\source\repos\mutekavvim-web-coremvc\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
 C:\Users\ErkanPer\source\repos\mutekavvim-web-coremvc\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
 C:\Users\ErkanPer\source\repos\mutekavvim-web-coremvc\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\ErkanPer\source\repos\mutekavvim-web-coremvc\bin\Debug\net6.0\Microsoft.Build.Locator.dll
 C:\Users\ErkanPer\source\repos\mutekavvim-web-coremvc\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
 C:\Users\ErkanPer\source\repos\mutekavvim-web-coremvc\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
 C:\Users\ErkanPer\source\repos\mutekavvim-web-coremvc\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
@@ -575,3 +574,6 @@ C:\Users\ErkanPer\source\repos\mutekavvim-web-coremvc\obj\Debug\net6.0\refint\mu
 C:\Users\ErkanPer\source\repos\mutekavvim-web-coremvc\obj\Debug\net6.0\mutekavvim-web-coremvc.pdb
 C:\Users\ErkanPer\source\repos\mutekavvim-web-coremvc\obj\Debug\net6.0\mutekavvim-web-coremvc.genruntimeconfig.cache
 C:\Users\ErkanPer\source\repos\mutekavvim-web-coremvc\obj\Debug\net6.0\ref\mutekavvim-web-coremvc.dll
+C:\Users\ErkanPer\source\repos\mutekavvim-web-coremvc\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\ErkanPer\source\repos\mutekavvim-web-coremvc\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\ErkanPer\source\repos\mutekavvim-web-coremvc\bin\Debug\net6.0\Microsoft.NET.StringTools.dll

@@ -84,6 +84,16 @@ namespace mutekavvim_web_coremvc.Controllers
             return View();
         }
 
+        public IActionResult KVKK()
+        {
+            return View();
+        }
+
+        public IActionResult GizlilikPolitakasi()
+        {
+            return View();
+        }
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
