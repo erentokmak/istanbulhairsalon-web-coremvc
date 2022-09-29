@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "T7GSA9mzfdKJ5Fg9UJngHwH2zqEXgmT1MLZhAuOw3QU=",
+  "Hash": "Rlg0NkpGnWT9llETkRRXbFEwaSb3kyrsLIVttdA26m0=",
   "Source": "mutekavvim-web-coremvc",
   "BasePath": "_content/mutekavvim-web-coremvc",
   "Mode": "Default",
@@ -1069,6 +1069,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\ErkanPer\\source\\repos\\istanbulhairsalon-web-coremvc\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\mutekavvim-web-coremvc.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\ErkanPer\\source\\repos\\istanbulhairsalon-web-coremvc\\wwwroot\\assets\\img\\logowebsiteblack.png",
+      "SourceId": "mutekavvim-web-coremvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ErkanPer\\source\\repos\\istanbulhairsalon-web-coremvc\\wwwroot\\",
+      "BasePath": "_content/mutekavvim-web-coremvc",
+      "RelativePath": "assets/img/logowebsiteblack.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\logowebsiteblack.png"
+    },
+    {
+      "Identity": "C:\\Users\\ErkanPer\\source\\repos\\istanbulhairsalon-web-coremvc\\wwwroot\\assets\\img\\logowebsitewhite.png",
+      "SourceId": "mutekavvim-web-coremvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ErkanPer\\source\\repos\\istanbulhairsalon-web-coremvc\\wwwroot\\",
+      "BasePath": "_content/mutekavvim-web-coremvc",
+      "RelativePath": "assets/img/logowebsitewhite.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\logowebsitewhite.png"
     },
     {
       "Identity": "C:\\Users\\ErkanPer\\source\\repos\\istanbulhairsalon-web-coremvc\\wwwroot\\css\\site.css",
